@@ -46,12 +46,17 @@ STATIC_PATHS = ['images' , 'notebooks']
 DISPLAY_CATEGORIES_ON_MENU = False
 CC_LICENSE = "CC-BY"
 SIDEBAR_ON_LEFT = True
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    ('About Me', '/pages/about.html'),
+    ('Work', '/pages/work.html'),
+    ('Imprint', '/pages/imprint.html'))
 SOCIAL = (('twitter', 'https://twitter.com/datadonk23'),
-          ('linkedin', 'https://www.linkedin.com/in/thomastreml/', 'linkedin'),
           ('github', 'https://github.com/donK23'),
-          ('facebook', 'https://www.facebook.com/treml.thomas', 'facebook'),
+          ('linkedin', 'https://www.linkedin.com/in/thomastreml/', 'linkedin'),
+          ('medium', 'https://medium.com/@datadonk23', 'medium'),
           ('instagram', 'https://www.instagram.com/datadonk23/', 'instagram'),
-          ('medium', 'https://medium.com/@datadonk23', 'medium'))
+          ('facebook', 'https://www.facebook.com/treml.thomas', 'facebook'))
 DISABLE_SIDEBAR_TITLE_ICONS = True
-ABOUT_ME = "<b>Data Scientist</b><br>Donkey hiker, cycler<br><small>Some shithole, AT</small>"
+ABOUT_ME = "<b>Data Scientist</b><br>&hearts; Donkies &amp; Cycling<br><small>&#9737; Rural AT</small>"
 AVATAR = "images/profile.png"
