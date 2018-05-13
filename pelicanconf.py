@@ -40,7 +40,10 @@ PLUGINS = ['i18n_subsites', 'pelican-ipynb.markup']
 MARKUP = ('md', 'ipynb')
 #IPYNB_IGNORE_CSS=True
 PYGMENTS_STYLE = 'github'
-STATIC_PATHS = ['images' , 'notebooks', 'pdfs']
+STATIC_PATHS = ['images' , 'extra', 'notebooks', 'pdfs']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 #FAVICON = 'images/favicon.png'
 DISPLAY_CATEGORIES_ON_MENU = False
