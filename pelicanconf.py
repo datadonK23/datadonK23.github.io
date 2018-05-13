@@ -42,7 +42,8 @@ MARKUP = ('md', 'ipynb')
 PYGMENTS_STYLE = 'github'
 STATIC_PATHS = ['images' , 'extra', 'notebooks', 'pdfs']
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/CNAME': {'path': 'CNAME'}
 }
 
 #FAVICON = 'images/favicon.png'

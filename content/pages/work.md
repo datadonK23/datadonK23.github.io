@@ -35,7 +35,7 @@ _Software Development_:
 * Python
 * Scala (but, periodically hitting a wall), SBT, IntelliJ
 * Flask, Pelican, Node.js, JS, HTML, Bootstrap (all of them, only if necessary)
-* AWS, GCE, IBM Cloud
+* AWS, GCP, IBM Cloud
 
 ## Certificates and Achievments
 Showcase of _certificates_, I collected during the last years (there are some more, >40):
