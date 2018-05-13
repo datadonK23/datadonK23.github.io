@@ -12,51 +12,45 @@ Actually I'm self-employed as a Data Science Freelancer. You can visit my (loose
 
 Coming from traditional data analytics, my professional focus is currently on advanced analytical problems, which can be solved by methods of Machine Learning. Especially in the field of Deep Learning I've now made my first steps and wanna further pursue a career. Besides that, I try to keep current with fast data processing technologies (mostly stream analytics).
 
-Methods:
+_Methods_:
 
 * Data Analytics
-* Graph Analytics
 * Statistical Modeling
 * Machine Learning, including Deep Learning
+* Graph Analytics
 * Data Visualization
 
 ## Toolbox
 _Data Science_:
 
-* PyData Stack (Anaconda, Pandas, scikit-learn, ...)
+* PyData Stack (Anaconda, Jupyter, Pandas, Numpy, scikit-learn, ...)
 * Keras
 * MongoDB, PostgreSQL/ PostGIS, SQLite
 * QGIS
 * Apache Spark
 
-_Dev_:
+_Software Development_:
 
 * Git
 * Python
-* Scala, SBT, IntelliJ
-* Flask, Node.js
-* JS, HTML, Bootstrap
+* Scala (but, periodically hitting a wall), SBT, IntelliJ
+* Flask, Pelican, Node.js, JS, HTML, Bootstrap (all of them, only if necessary)
 * AWS, GCE, IBM Cloud
 
 ## Certificates and Achievments
-Showcase of certificates, I collected during the last years (there are many more, ~X):
+Showcase of _certificates_, I collected during the last years (there are some more, >40):
 
-* Fixme
-* Fixme
+* [Deep Learning Specialization]({filename}/pdfs/certs/Cert_DeepLearningAI.pdf)
+* [Applied AI with DeepLearning]({filename}/pdfs/certs/Cert_IBMAppliedAI.pdf)
+* [Big Data Analysis with Scala and Spark]({filename}/pdfs/certs/Cert_BigDataScalaSpark.pdf)
+* [Scalable Machine Learning]({filename}/pdfs/certs/Cert_ScalML.pdf)
+* [Applied Machine Learning in Python]({filename}/pdfs/certs/Cert_AppliedMLPy.pdf)
+* [Geospatial Intelligence]({filename}/pdfs/certs/Cert_GeoInt.pdf)
+* [Social and Economic Networks: Models and Analysis]({filename}/pdfs/certs/Cert_SocialAndEconomicNetworks.pdf)
+* [Graph Analytics for Big Data]({filename}/pdfs/certs/Cert_GraphAnalytics.pdf)
 
-Recent achievments, I'm proud of:
+Recent _achievments_, I'm proud of:
 
 * Completed [deeplearning.ai](https://www.deeplearning.ai/) specialization
 * Author on [Towards Data Science](https://towardsdatascience.com/)
 * Contributor to [pandas](https://pandas.pydata.org/)
-
-## Roadmap
-Fixme
-
-
-
-### Code Highlighting
-```python
-s = "Python syntax highlighting"
-print s
-```

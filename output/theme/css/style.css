@@ -249,3 +249,5 @@ footer {
 footer a:hover {
   color: #18bc9c;
 }
+
+th {text-align:center}
