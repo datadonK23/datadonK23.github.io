@@ -32,7 +32,7 @@ _Data Science_:
 _Software Development_:
 
 * Git
-* Python
+* Python, PyCharm
 * Scala (but, periodically hitting a wall), SBT, IntelliJ
 * Flask, Pelican, Node.js, JS, HTML, Bootstrap (all of them, only if necessary)
 * AWS, GCP, IBM Cloud

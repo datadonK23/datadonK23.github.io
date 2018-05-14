@@ -14,5 +14,3 @@ Authors: Thomas Treml
 * Handles
     * almost everywhere: _@datadonk23_
     * on GitHub: _@donK23_
-
-# Site under Construction
