@@ -35,7 +35,7 @@ _Software Development_:
 * Python, PyCharm
 * Scala (but, periodically hitting a wall), SBT, IntelliJ
 * Flask, Pelican, Node.js, JS, HTML, Bootstrap (all of them, only if necessary)
-* Linux
+* Linux, Bash
 * AWS, GCP, IBM Cloud
 
 ## Certificates and Achievments
