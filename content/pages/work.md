@@ -53,6 +53,6 @@ Showcase of _certificates_, I collected during the last years (there are some mo
 Recent _achievments_, I'm proud of:
 
 * Completed [deeplearning.ai](https://www.deeplearning.ai/) specialization
-* Workshop mentor at WeAreDevelopers World Congress 2018
+* Mentor in a workshop at WeAreDevelopers World Congress 2018
 * Author on [Towards Data Science](https://towardsdatascience.com/)
 * Contributor to [pandas](https://pandas.pydata.org/)
