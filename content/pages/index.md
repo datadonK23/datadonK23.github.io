@@ -11,6 +11,5 @@ Authors: Thomas Treml
 # Digital Home of Thomas Treml
 * [About me]({filename}/pages/about.md)
 * [Profession]({filename}/pages/work.md)
-* Handles
-    * almost everywhere: _@datadonk23_
-    * on GitHub: _@donK23_
+* Handle:
+    * _@datadonk23_

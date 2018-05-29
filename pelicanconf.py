@@ -56,7 +56,7 @@ MENUITEMS = (
     ('Work', '/pages/work.html'),
     ('Imprint', '/pages/imprint.html'))
 SOCIAL = (('twitter', 'https://twitter.com/datadonk23'),
-          ('github', 'https://github.com/donK23'),
+          ('github', 'https://github.com/datadonK23'),
           ('linkedin', 'https://www.linkedin.com/in/thomastreml/', 'linkedin'),
           ('medium', 'https://medium.com/@datadonk23', 'medium'),
           ('instagram', 'https://www.instagram.com/datadonk23/', 'instagram'),
