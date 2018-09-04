@@ -32,7 +32,7 @@ TAG_SAVE_AS = ''
 INDEX_SAVE_AS = 'blog_index.html'
 
 
-THEME = "../pelican-themes/my-pelican-bootstrap3"
+THEME = "theme/"
 BOOTSTRAP_THEME = "flatly"
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PLUGIN_PATHS = ['../pelican-plugins']
