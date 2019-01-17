@@ -38,21 +38,24 @@ _Software Development_:
 * Linux, Bash
 * AWS, GCP, IBM Cloud
 
-## Certificates and Achievments
+## Certificates and Achievements
 Showcase of _certificates_, I collected during the last years (there are some more, >40):
 
 * [Deep Learning Specialization]({filename}/pdfs/certs/Cert_DeepLearningAI.pdf)
 * [Mathematics for Machine Learning Specialization]({filename}/pdfs/certs/Cert_Maths4ML.pdf)
 * [Applied AI with DeepLearning]({filename}/pdfs/certs/Cert_IBMAppliedAI.pdf)
 * [Big Data Analysis with Scala and Spark]({filename}/pdfs/certs/Cert_BigDataScalaSpark.pdf)
+* [Advanced Machine Learning and Signal Processing]({filename}/pdfs/certs/Cert_IBMAdvMLSigProc.pdf)
 * [Scalable Machine Learning]({filename}/pdfs/certs/Cert_ScalML.pdf)
 * [Applied Machine Learning in Python]({filename}/pdfs/certs/Cert_AppliedMLPy.pdf)
 * [Geospatial Intelligence]({filename}/pdfs/certs/Cert_GeoInt.pdf)
 * [Social and Economic Networks: Models and Analysis]({filename}/pdfs/certs/Cert_SocialAndEconomicNetworks.pdf)
 * [Graph Analytics for Big Data]({filename}/pdfs/certs/Cert_GraphAnalytics.pdf)
+* [Lightbend Reactive Architecture: Foundations & Advanced (Learning Paths)]({filename}/pdfs/certs/Certs_ReactiveArch.pdf)
 
-Recent _achievments_, I'm proud of:
+Recent _achievements_, I'm proud of:
 
+* Contributed to a specialized book about Data Science (will be released in spring 2019)
 * Accepted as member of [Vienna Data Science Group](https://viennadatasciencegroup.at/)
 * Completed [deeplearning.ai](https://www.deeplearning.ai/) specialization
 * Mentor in a workshop at [WeAreDevelopers](https://www.wearedevelopers.com/) World Congress 2018
