@@ -26,7 +26,7 @@ _Data Science_:
 * PyData Stack (Anaconda, Jupyter, Pandas, Numpy, scikit-learn, ...)
 * Keras
 * MongoDB, PostgreSQL/ PostGIS, SQLite
-* QGIS
+* QGIS, Folium
 * Apache Spark
 
 _Software Development_:
