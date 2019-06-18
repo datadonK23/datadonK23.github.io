@@ -33,7 +33,7 @@ _Software Development_:
 
 * Git
 * Python, PyCharm
-* Scala (but, periodically hitting a wall), SBT, IntelliJ
+* Scala, Akka, SBT, IntelliJ
 * Flask, Pelican, Node.js, JS, HTML, Bootstrap (all of them, only if necessary)
 * Linux, Bash
 * AWS, GCP, IBM Cloud
@@ -53,12 +53,14 @@ Showcase of _certificates_, I collected during the last years (there are some mo
 * [Social and Economic Networks: Models and Analysis]({filename}/pdfs/certs/Cert_SocialAndEconomicNetworks.pdf)
 * [Graph Analytics for Big Data]({filename}/pdfs/certs/Cert_GraphAnalytics.pdf)
 * [Lightbend Reactive Architecture: Foundations & Advanced (Learning Paths)]({filename}/pdfs/certs/Certs_ReactiveArch.pdf)
+* [Akka Essentials]({filename}/pdfs/certs/Cert_AkkaEssentials.pdf)
 
 Recent _achievements_, I'm proud of:
 
-* Contributed to a specialized book about Data Science (will be released in spring 2019)
+* Contributor to [fklearn](https://fklearn.readthedocs.io/en/latest/)
+* Data Science Lead of a [Data4Good](https://viennadatasciencegroup.at/data4good/) project
+* Contributed to a [specialized book](https://www.hanser-fachbuch.de/buch/Handbuch+Data+Science/9783446457102) about Data Science
 * Accepted as member of [Vienna Data Science Group](https://viennadatasciencegroup.at/)
-* Completed [deeplearning.ai](https://www.deeplearning.ai/) specialization
 * Mentor in a workshop at [WeAreDevelopers](https://www.wearedevelopers.com/) World Congress 2018
 * Author on [Towards Data Science](https://towardsdatascience.com/)
 * Contributor to [pandas](https://pandas.pydata.org/)
