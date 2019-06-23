@@ -60,7 +60,6 @@ Recent _achievements_, I'm proud of:
 * Contributor to [fklearn](https://fklearn.readthedocs.io/en/latest/)
 * Data Science Lead of a [Data4Good](https://viennadatasciencegroup.at/data4good/) project
 * Contributed to a [specialized book](https://www.hanser-fachbuch.de/buch/Handbuch+Data+Science/9783446457102) about Data Science
-* Accepted as member of [Vienna Data Science Group](https://viennadatasciencegroup.at/)
 * Mentor in a workshop at [WeAreDevelopers](https://www.wearedevelopers.com/) World Congress 2018
 * Author on [Towards Data Science](https://towardsdatascience.com/)
 * Contributor to [pandas](https://pandas.pydata.org/)

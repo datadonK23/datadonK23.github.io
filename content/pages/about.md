@@ -28,6 +28,6 @@ I consider myself as an open-minded person, a personal quality that helps to col
 * Sarky, by nature.
 
 ## Leisure
-In my spare time I love going out for a hike with our donkies or doing some [sport activities](https://www.strava.com/athletes/4964932), especially cycling.
+In my spare time I love going out for a hike with donkies or doing some [sport activities](https://www.strava.com/athletes/4964932), especially cycling.
 
 ![Artificial created picture of me]({filename}/images/DeepDreamMe.jpg "Deep Dream Me") ![me and the donkies]({filename}/images/Welfie_with_Lads_small.jpg "Welfie with the lads") ![Bicycle and Benni]({filename}/images/Bicycle_Benni_small.jpg "Cycling")
