@@ -62,5 +62,5 @@ SOCIAL = (('twitter', 'https://twitter.com/datadonk23'),
           ('instagram', 'https://www.instagram.com/datadonk23/', 'instagram'),
           ('facebook', 'https://www.facebook.com/treml.thomas', 'facebook'))
 DISABLE_SIDEBAR_TITLE_ICONS = True
-ABOUT_ME = "<b>Data Scientist</b><br><small>(&#64;datadonk23)</small><br>&hearts; Donkies &amp; Cycling<br><small>&#9737; Rural AT</small>"
+ABOUT_ME = "<b>Data Scientist</b><br><small>(&#64;datadonk23)</small><br><small>&#9737; Steyr, AT</small>"
 AVATAR = "images/profile.png"

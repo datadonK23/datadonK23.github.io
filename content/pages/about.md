@@ -3,9 +3,9 @@ Date: 2018-05-09 14:30
 Slug: about
 Authors: Thomas Treml
 
-> "Sorry can't, I have to walk my donkey"
+> "Success is how high you bounce when you hit the bottom"
 >
-> -- <cite>from my T-Shirt ;)</cite>
+> -- <cite>Gen. George S. Patton Jr.</cite>
 
 # About Me
 My name is Thomas and I'm a self-employed Data Scientist from Austria. My background is in Social Sciences (master's degree) and Geoinformatics (professional degree). Besides that, I deeply enjoy lifelong learning and therefore working through various books & courses in the domains of Data Science and Programming. Also, I participate in and contribute to open source communities regularly.
@@ -28,6 +28,6 @@ I consider myself as an open-minded person, a personal quality that helps to col
 * Sarky, by nature.
 
 ## Leisure
-In my spare time I love going out for a hike with donkies or doing some [sport activities](https://www.strava.com/athletes/4964932), especially cycling.
+In my spare time I love doing some [sport activities](https://www.strava.com/athletes/4964932) (esp. cycling and swimming) and enjoy going to Football.
 
-![Artificial created picture of me]({filename}/images/DeepDreamMe.jpg "Deep Dream Me") ![me and the donkies]({filename}/images/Welfie_with_Lads_small.jpg "Welfie with the lads") ![Bicycle and Benni]({filename}/images/Bicycle_Benni_small.jpg "Cycling")
+![Artificial created picture of me]({filename}/images/DeepDreamMe.jpg "Deep Dream Me") ![me wearing a football scarve]({filename}/images/Football_small.jpg "Welfie with the lads") ![Bicycle and Benni]({filename}/images/Bicycle_Benni_small.jpg "Cycling")
