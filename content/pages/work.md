@@ -1,5 +1,5 @@
 Title:
-Date: 2018-05-09 14:30
+Date: 2021-05-03 15:30
 Slug: work
 Authors: Thomas Treml
 
@@ -8,25 +8,23 @@ Authors: Thomas Treml
 > -- <cite> Sherlock Holmes ([Arthur Conan Doyle, 1892](https://en.wikiquote.org/wiki/Sherlock_Holmes))</cite>
 
 # Profession
-Actually I'm self-employed as a Data Science Freelancer. You can visit my (loosely updated) company site here: [daten sensorium](http://datensensorium.co.at/).
-
-Coming from traditional Data Analytics, my professional focus is currently on advanced analytical problems, which can be solved by methods of Machine Learning. Besides that, I try to keep current with fast data processing technologies (mostly Stream Analytics).
+I'm a self-employed Data Scientist (Type B). My professional focus is currently on advanced analytical problems, which can be solved by methods of Machine Learning, especially in the fields of language and text.
 
 _Methods_:
 
 * Data Analytics
 * Statistical Modeling
 * Data Visualization
-* Graph Analytics
 * Machine Learning, including Deep Learning
-* Natural Language Processsing
+* Natural Language Processing
 
 ## Toolbox
 _Data Science_:
 
 * PyData Stack (Anaconda, Jupyter, Pandas, Numpy, scikit-learn, ...)
-* Keras
-* MongoDB, PostgreSQL/ PostGIS, SQLite
+* spaCy, flair, nltk
+* Elasticsearch, MongoDB, PostgreSQL/ PostGIS, SQLite
+* Keras, TensorFlow
 * QGIS, Folium
 * Apache Spark
 
@@ -58,6 +56,7 @@ Showcase of _certificates_, I collected during the last years (there are some mo
 
 Recent _achievements_, I'm proud of:
 
+* Co-Author of a Policy Paper on [Artificial Intelligence's (AI) Impact on Freedom of Expression in Political Campaign and Elections](https://www.osce.org/representative-on-freedom-of-media/483638?fbclid=IwAR38-a4ch9VHadQIEYTogbuED1LVQoPEVQ_qW7PremQmAD5SYJTA5CP-s4Q) and its supplementary [Guidelines for API Access to Social Media](https://www.osce.org/representative-on-freedom-of-media/483644)
 * Skill Mentor on Data and Machine Learning / AI at [EUvsVirus Hackathon](https://euvsvirus.org/)
 * [Social Media Monitoring](https://www.wahlbeobachtung.org/en/social-media-monitoring-results-about-2019-austrian-snap-elections-published/) during an election phase
 * Did projects in 4 different (human) languages in a year

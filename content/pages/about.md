@@ -10,8 +10,6 @@ Authors: Thomas Treml
 # About Me
 My name is Thomas and I'm a self-employed Data Scientist from Austria. My background is in Social Sciences (master's degree) and Geoinformatics (professional degree). Besides that, I deeply enjoy lifelong learning and therefore working through various books & courses in the domains of Data Science and Programming. Also, I participate in and contribute to open source communities regularly.
 
-If you are interested in more formal stuff, you can download my resume [here]({filename}/pdfs/CVTTE_engl.pdf).
-
 ## Qualities
 [UPenn's character strength survey](https://www.authentichappiness.sas.upenn.edu/) says:
 
